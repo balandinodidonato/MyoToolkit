@@ -1,5 +1,5 @@
 # Myo Toolkit
-A list of all third party code written for using the [Myo armband](https://www.myo.com).
+A list of all third party code written for the [Myo armband](https://www.myo.com).
 
 ## Description
 
