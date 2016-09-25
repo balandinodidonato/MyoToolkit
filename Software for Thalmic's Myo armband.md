@@ -1,4 +1,4 @@
-# Third party Code written for using the [Myo armband](https://www.myo.com)
+# Software for [Thalmic's Myo armband](https://www.myo.com)
 
 - [**Thalmic Developpers Page**](https://developer.thalmic.com)
 - [**Thalmic's repository**](https://github.com/thalmiclabs)
@@ -91,7 +91,8 @@
 - [myo](https://github.com/mrbrianhobo/myo) - Thalmic Myo? Mario Kart 64? I think yes.
 - [myo](https://github.com/ivorjberry/myo) - Repo for myo armband software exploration
 
-## Music software bridge
+## Music software
+- [Myo Music Mixer (3M)](http://aakashadesara.github.io/M3/)
 
 ### Max - Pd
 - [Myo-maxpd](https://github.com/bcaramiaux/Myo-maxpd) - MaxMSP and PureData objects to get raw EMG data from the Thalmic Myo
@@ -110,6 +111,7 @@
 - [myo-osc](https://github.com/samyk/myo-osc) - OSC bridge for the Thalmic Myo gesture control armband (cross-platform)
 - [MyoMapper 1](https://github.com/balandinodidonato/MyoMapper) - Myo Mapper is an open-source application to send Myo data to third audio and visual softwares or hardware able to receive OSC or MIDI messages.
 - [MyoMapper 2](https://github.com/balandinodidonato/MyoMapper) - Myo Mapper is an open-source application to send Myo data to third audio and visual softwares or hardware able to receive OSC or MIDI messages.
+- [Leviathan](http://precisionmusic.technology)
 
 ## Node JS
 - [myo4l](https://github.com/freehaha/myo4l) - node module to access myo without the myo dongle
